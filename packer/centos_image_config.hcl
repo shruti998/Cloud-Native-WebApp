@@ -1,0 +1,6 @@
+  project_id          = "cloudspring2024"
+  source_image_family = "centos-stream-8"
+  zone                = "us-east1-b"
+  network          = "default"
+  ssh_username        = "centos"
+  image_family="centos-stream8"
